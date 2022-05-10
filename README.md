@@ -1,4 +1,4 @@
-# Simple simulator of MIPS CPU written in Verilog
+# Simple Simulator of MIPS CPU Written in Verilog
 
 # Documentation ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.MIPS-simulator&left_color=gray&right_color=blue)
 
